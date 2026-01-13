@@ -20,3 +20,4 @@ Python, Pandas, NumPy, Matplotlib
 - Identified key factors impacting quality scores
 - Revealed variations in quality across suppliers
 - Highlighted defect patterns affecting outcomes
+<img width="1391" height="867" alt="Screenshot 2026-01-13 162959" src="https://github.com/user-attachments/assets/ec7d302d-31da-4da4-a448-b470935d39ac" />
