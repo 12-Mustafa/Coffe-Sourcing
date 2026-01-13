@@ -1,5 +1,22 @@
-Coffee Quality Sourcing
-This project leverages the well-known coffee dataset to explore the factors influencing coffee quality across origins, varieties, and processing methods. 
-The primary objective was to apply advanced data visualization techniques—such as heatmaps, box plots, pair plots, and interactive charts—to uncover meaningful insights. 
-These visualizations help in understanding the distribution of quality scores, correlations among features, 
-and patterns across regions, enabling buyers and stakeholders to make informed sourcing decisions in the specialty coffee market.
+# Coffee Quality & Supplier Decision Analysis
+
+## Overview
+This project analyzes coffee quality and defect datasets to identify factors influencing
+quality scores and to support data-driven supplier selection decisions.
+
+## Problem Statement
+Supplier evaluation is often subjective. This analysis aims to introduce objective,
+data-backed insights into the supplier decision process.
+
+## Approach
+- Cleaned and prepared coffee quality datasets
+- Conducted exploratory data analysis (EDA)
+- Visualized supplier-level quality differences and defect patterns
+
+## Tools Used
+Python, Pandas, NumPy, Matplotlib
+
+## Key Insights
+- Identified key factors impacting quality scores
+- Revealed variations in quality across suppliers
+- Highlighted defect patterns affecting outcomes
